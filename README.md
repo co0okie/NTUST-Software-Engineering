@@ -1,3 +1,4 @@
 hello world!  
 second line  
-go right  
+first go left, then go right  
+
